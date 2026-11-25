@@ -1,0 +1,26 @@
+site_id,site_name,circle,city,is_hub,dependent_sites
+SITE-001,Bengaluru RTT 1,KA-SOUTH,Bengaluru,false,1
+SITE-002,Tumakuru Tower 2,KA-SOUTH,Tumakuru,false,0
+SITE-003,Tumakuru RTT 3,KA-SOUTH,Tumakuru,true,5
+SITE-004,Tumakuru RTT 4,KA-SOUTH,Tumakuru,false,2
+SITE-005,Hassan Tower 5,KA-SOUTH,Hassan,false,0
+SITE-006,Tumakuru Tower 6,KA-SOUTH,Tumakuru,false,0
+SITE-007,Mandya GBT 7,KA-SOUTH,Mandya,false,0
+SITE-008,Bengaluru RTT 8,KA-SOUTH,Bengaluru,true,3
+SITE-009,Mandya GBT 9,KA-SOUTH,Mandya,false,0
+SITE-010,Mandya GBT 10,KA-SOUTH,Mandya,false,1
+SITE-011,Hassan RTT 11,KA-SOUTH,Hassan,false,0
+SITE-012,Mandya RTT 12,KA-SOUTH,Mandya,false,0
+SITE-013,Tumakuru GBT 13,KA-SOUTH,Tumakuru,false,1
+SITE-014,Gadag RTT 14,KA-NORTH,Gadag,true,4
+SITE-015,Vijayapura Tower 15,KA-NORTH,Vijayapura,false,1
+SITE-016,Vijayapura GBT 16,KA-NORTH,Vijayapura,false,1
+SITE-017,Gadag Tower 17,KA-NORTH,Gadag,false,2
+SITE-018,Gadag Tower 18,KA-NORTH,Gadag,false,2
+SITE-019,Gadag GBT 19,KA-NORTH,Gadag,false,2
+SITE-020,Bagalkot GBT 20,KA-NORTH,Bagalkot,false,1
+SITE-021,Bagalkot RTT 21,KA-NORTH,Bagalkot,true,6
+SITE-022,Bagalkot RTT 22,KA-NORTH,Bagalkot,false,0
+SITE-023,Belagavi Tower 23,KA-NORTH,Belagavi,false,0
+SITE-024,Vijayapura RTT 24,KA-NORTH,Vijayapura,false,0
+SITE-025,Bagalkot GBT 25,KA-NORTH,Bagalkot,false,2
